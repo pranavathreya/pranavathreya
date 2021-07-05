@@ -1,9 +1,9 @@
-My Big Data Project:
-This project is a means for me to practice building a 'Big Data Platform' that incorporates best practices and design principles I have learnt in my 2 odd years as a junior Data Engineer. A significant source of inspiration for this project is Uber's Big Data platform and its evolution, both of which you can read about here: https://eng.uber.com/uber-big-data-platform/
+# My Big Data Project
+This project is a means for me to practice building a 'Big Data Platform' that incorporates best practices and design principles that I have learnt in my 2 odd years as a junior Data Engineer. A significant source of inspiration for this project is Uber's Big Data platform and its evolution, both of which you can read about here: https://eng.uber.com/uber-big-data-platform/.
 
 The rough engineering goal with this project is to build an application that provides what I understand to be the full stack of data analytics services, namely, central access to raw data from a variety of sources, access to structured versions of said raw data, visualization & reporting tools based on the housed data and finally, predictive analytics and forecasting based on the same housed data.
 
-An ideal performance target to reach would be a Big Data Platform that is modular enough to be able to work in almost any field. Since my interests are as varied as Strength and Endurance Training, Quantitative Finance, Aerospace Engineering and Meteorology, I want to be able to have access to an analytics platform that is able to service my data needs for any of the aforementioned topics by almost only needing to change the sources of data flowing into the system.
+An ideal performance target to reach would be a Big Data Platform that is modular enough to be able to work in almost any field of interest. Since my interests are as varied as Physical Strength and Endurance Training, Quantitative Finance, Aerospace Engineering and Meteorology, I want to be able to have access to an analytics platform that is able to service my data needs regardless of my area of interest.
 
 <!---
 - 👋 Hi, I’m @pranavathreya
