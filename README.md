@@ -1,4 +1,9 @@
-# My Big Data Project
+# The Beauty of the Big Data Platform
+A well-engineered Big Data Platform is truly a sight to behold. It's hard to list all of the aspects that fuel my love for these systems, but the most apparent would be the fascinating design solutions that allow the platform to scale rapidly, provide the lowest latency to its customers, onboard new technologies with ease and do many more amazing things.
+
+This github profile is a means for me to document and catalog my passion for these platforms and the design principles that go into making them 'scalable, reliable and easy-to-use'. 
+
+## My Big Data Project
 This project is a means for me to practice building a 'Big Data Platform' that incorporates best practices and design principles that I have learnt in my 2 odd years as a junior Data Engineer. A significant source of inspiration for this project is Uber's Big Data platform and its evolution, both of which you can read about here: https://eng.uber.com/uber-big-data-platform/.
 
 The rough engineering goal with this project is to build an application that provides what I understand to be the full stack of data analytics services, namely, central access to raw data from a variety of sources, access to structured versions of said raw data, visualization & reporting tools based on the housed data and finally, predictive analytics and forecasting based on the same housed data.
