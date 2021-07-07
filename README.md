@@ -16,7 +16,7 @@ This github profile is a means for me to document and catalog my passion for the
   * engineers had to access databases individually and write their own code to combine it
   * no global access to ALL the data
   * total data size: a few TBs
-  * latency: often sb-minute; 'very fast'; apparently because each database was queried directly as well as the data being stored in an online transactional DB.
+  * latency: often sub-minute; 'very fast'; apparently because each database was queried directly as well as the data being stored in an online transactional DB.
 		
 
 ### Lessons Learnt
