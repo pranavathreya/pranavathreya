@@ -4,6 +4,7 @@ A well-engineered Big Data Platform is truly a sight to behold. It's hard to lis
 This github profile is a means for me to document and catalog my passion for these platforms and the design principles I've learnt that go into making them 'scalable, reliable and easy-to-use'. 
 
 ## Inferences from the Evolution of Uber's Big Data Platform
+*This is a work in progress that I add to as I read through this blog multiple times: https://eng.uber.com/uber-big-data-platform/*
 
 ### With any Big Data Platform, Prioritize the Following
 - reliability (Low-latency, always-online)
