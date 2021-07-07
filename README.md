@@ -1,7 +1,7 @@
 # The Beauty of the Big Data Platform
 A well-engineered Big Data Platform is truly a sight to behold. It's hard to list all of the aspects that fuel my love for these systems, but the most apparent would be the fascinating design solutions that allow the platform to scale rapidly, provide the lowest latency to its customers, onboard new technologies with ease and do many more amazing things.
 
-This github profile is a means for me to document and catalog my passion for these platforms and the design principles I've learnt, that go into making them 'scalable, reliable and easy-to-use'. 
+This github profile is a means for me to document and catalog my passion for these platforms and the design principles I've learnt that go into making them 'scalable, reliable and easy-to-use'. 
 
 ## Inferences from the Evolution of Uber's Big Data Platform
 
