@@ -3,14 +3,14 @@ A well-engineered Big Data Platform is truly a sight to behold. It's hard to lis
 
 This github profile is a means for me to document and catalog my passion for these platforms and the design principles I've learnt, that go into making them 'scalable, reliable and easy-to-use'. 
 
-## Inferences from the Evolution of Uber's Big Data Platform: 
+## Inferences from the Evolution of Uber's Big Data Platform
 
-### With any Big Data Platform, prioritize:
+### With any Big Data Platform, Prioritize the Following
 - reliability (Low-latency, always-online)
 - scalability
 - ease-of-use
 	
-### Gen 1:
+### Gen 1
 * Features:
   * data resided in multiple OLTP databases (inserting, updating or deleting small amounts of data)
   * engineers had to access databases individually and write their own code to combine it
@@ -19,7 +19,7 @@ This github profile is a means for me to document and catalog my passion for the
   * latency: often sb-minute; 'very fast'; apparently because each database was queried directly as well as the data being stored in an online transactional DB.
 		
 
-### Lessons Learnt:
+### Lessons Learnt
 - Formal contract between data producers and consumers in order to make ETL pipelines robust to change.
 - Standardization of ingestion jobs allows for ease in adding new datasets and types.
 - Horizontal scalability is critical in shortening the time to onboard ad-hoc services, thus allowing time to work on building the next generation of the data platform.
